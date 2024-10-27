@@ -1,7 +1,7 @@
 # **Mayya Ragimova**
 
 ## **My contact info**
-* **Email:**abeillee@bk.ru
+* **Email:** abeillee@bk.ru
 * **GitHub:** https://github.com/abeilleee
 * **Discord:** abeilllee
 
